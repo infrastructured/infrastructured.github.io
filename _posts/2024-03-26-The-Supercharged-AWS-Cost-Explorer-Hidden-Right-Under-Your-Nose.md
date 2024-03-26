@@ -1,7 +1,8 @@
-layout: page
+layout: post
 title: "The Supercharged AWS Cost Explorer Hidden Right Under Your Nose"
-permalink: /The_Supercharged_AWS_Cost_Explorer_Hidden_Right_Under_Your_Nose
-
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: AWS FinOps
+---
 # The Supercharged AWS Cost Explorer Hidden Right Under Your Nose
 
 In their quest to understand and manage their AWS cloud costs, almost everyone leverages the AWS Cost Explorer at some point, and they should! It’s an extremely useful tool for understanding your AWS costs at a high level, allowing you to gain insight into costs across services, accounts, regions, tags, and more. But, as cloud costs grow so often does the complexity of managing those costs.
