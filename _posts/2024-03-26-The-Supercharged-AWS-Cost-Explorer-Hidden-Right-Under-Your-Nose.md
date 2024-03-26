@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Supercharged AWS Cost Explorer Hidden Right Under Your Nose"
-date: 2024-03-26 12:55:00 -0500
+date: 2024-03-26 00:00:00 -0000
 categories: AWS FinOps
 ---
 # The Supercharged AWS Cost Explorer Hidden Right Under Your Nose
